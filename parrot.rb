@@ -1,6 +1,6 @@
 def parrot(phrase = "Squawk!")
   puts "#{phrase}"
-  return phase
+  return phrase
 end
 
 return_value = parrot("this can be anything?")
