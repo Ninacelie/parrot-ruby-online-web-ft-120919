@@ -10,10 +10,10 @@ end
 # parrot("ophelia")
 # parrot("zack")
 # parrot("nina")
-# 
-# 
+#
+#
 # # this thing
 # parrot
-# 
+#
 # # and this thing are the same
 # parrot("toddler")
