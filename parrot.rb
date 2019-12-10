@@ -14,4 +14,4 @@ parrot("nina")
 parrot
 
 # and this thing are the same
-parrot("Squawk!")
+parrot("toddler")
