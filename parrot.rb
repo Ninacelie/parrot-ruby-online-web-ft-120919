@@ -9,3 +9,6 @@ end
 def add_two_numbers(number_a, number_b)
   number_a + number_b
 end
+
+return_value = add_two_numbers(1,2)
+puts "return value of add_two_numbers is #{return_value}"
