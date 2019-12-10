@@ -3,5 +3,5 @@ def parrot(phrase = "Squawk!")
   "Squawk!"
 end
 
-return_value = parrot("hello")
+return_value = parrot("this can be anything?")
 puts "return value is #{return_value}"
