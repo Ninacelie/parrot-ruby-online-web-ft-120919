@@ -10,8 +10,8 @@ parrot("zack")
 parrot("nina")
 
 
-# this thing 
-parrot 
+# this thing
+parrot
 
 # and this thing are the same
 parrot("Squawk!")
